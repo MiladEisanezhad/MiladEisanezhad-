@@ -124,7 +124,9 @@ I'm a backend-focused developer specializing in Python and Django, building clea
 </p>
 
 ---
+
 <div align="center">
+  
 ### 🎯 Quick Facts
 
 | 🏆 Projects | ⏳ Experience | 📍 Location |
