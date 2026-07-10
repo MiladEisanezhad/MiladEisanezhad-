@@ -124,13 +124,13 @@ I'm a backend-focused developer specializing in Python and Django, building clea
 </p>
 
 ---
-
+<div align="center">
 ### 🎯 Quick Facts
 
 | 🏆 Projects | ⏳ Experience | 📍 Location |
 |:---:|:---:|:---:|
 | 5 | +1 Year | Shiraz, Fars, Iran 🇮🇷 |
-
+</div>
 ---
 
 <div align="center">
