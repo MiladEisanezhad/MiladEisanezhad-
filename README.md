@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Milad Eisanezhad 👋
+# Milad Eisanezhad
 
-### 🚀 Backend Developer | Django Developer
+### Backend Developer | Django Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Django+Developer;Python+%7C+Django+%7C+DRF;Building+scalable+APIs+%26+systems" alt="Typing SVG" />
 
