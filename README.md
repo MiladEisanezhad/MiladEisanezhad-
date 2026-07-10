@@ -137,7 +137,7 @@ I'm a backend-focused developer specializing in Python and Django, building clea
 
 ### 💬 Let's Connect & Build Something Great
 
-*"Building the future, one line of code at a time!"* 🚀
+*"Creating Bugs and fixing them with more bugs"*
 
 <img src="https://komarev.com/ghpvc/?username=MiladEisanezhad&color=blueviolet&style=flat-square&label=Profile+Views" />
 
